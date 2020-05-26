@@ -6,4 +6,4 @@ Trust me when i say that i don't just use this to host some memes with a custom 
 
 There is no support, all hope is lost.
 
-![](/memes/NoU.png)
+![nou](/memes/NoU.png)
