@@ -5,5 +5,3 @@ Trust me when i say that i don't just use this to host some memes with a custom 
 ### Support
 
 There is no support, all hope is lost.
-
-![nou](Memes/NoU.png)
