@@ -1,0 +1,184 @@
+{
+    "arcaneSymbols":[ 
+        {
+            "level": 1,
+            "stat": 300,
+            "statXenon": 117,
+            "statDemonAvenger": 5250,
+            "arcaneForce": 30,
+            "symbolExpRequired": 12,
+            "upgradeCost": 9500000
+        },
+        {
+            "level": 2,
+            "stat": 400,
+            "statXenon": 156,
+            "statDemonAvenger": 7000,
+            "arcaneForce": 40,
+            "symbolExpRequired": 15,
+            "upgradeCost": 16630000
+        },
+        {
+            "level": 3,
+            "stat": 500,
+            "statXenon": 195,
+            "statDemonAvenger": 8750,
+            "arcaneForce": 50,
+            "symbolExpRequired": 20,
+            "upgradeCost": 23760000
+        },
+        {
+            "level": 4,
+            "stat": 600,
+            "statXenon": 234,
+            "statDemonAvenger": 10500,
+            "arcaneForce": 60,
+            "symbolExpRequired": 27,
+            "upgradeCost": 30890000
+        },
+        {
+            "level": 5,
+            "stat": 700,
+            "statXenon": 273,
+            "statDemonAvenger": 12250,
+            "arcaneForce": 70,
+            "symbolExpRequired": 36,
+            "upgradeCost": 38020000
+        },
+        {
+            "level": 6,
+            "stat": 800,
+            "statXenon": 312,
+            "statDemonAvenger": 14000,
+            "arcaneForce": 80,
+            "symbolExpRequired": 47,
+            "upgradeCost": 45150000
+        },
+        {
+            "level": 7,
+            "stat": 900,
+            "statXenon": 351,
+            "statDemonAvenger": 15750,
+            "arcaneForce": 90,
+            "symbolExpRequired": 60,
+            "upgradeCost": 52280000
+        },
+        {
+            "level": 8,
+            "stat": 1000,
+            "statXenon": 390,
+            "statDemonAvenger": 17500,
+            "arcaneForce": 100,
+            "symbolExpRequired": 75,
+            "upgradeCost": 59410000
+        },
+        {
+            "level": 9,
+            "stat": 1100,
+            "statXenon": 429,
+            "statDemonAvenger": 19250,
+            "arcaneForce": 110,
+            "symbolExpRequired": 92,
+            "upgradeCost": 66540000
+        },
+        {
+            "level": 10,
+            "stat": 1200,
+            "statXenon": 468,
+            "statDemonAvenger": 21000,
+            "arcaneForce": 120,
+            "symbolExpRequired": 111,
+            "upgradeCost": 73670000
+        },
+        {
+            "level": 11,
+            "stat": 1300,
+            "statXenon": 507,
+            "statDemonAvenger": 22750,
+            "arcaneForce": 130,
+            "symbolExpRequired": 132,
+            "upgradeCost": 80800000
+        },
+        {
+            "level": 12,
+            "stat": 1400,
+            "statXenon": 546,
+            "statDemonAvenger": 24500,
+            "arcaneForce": 140,
+            "symbolExpRequired": 155,
+            "upgradeCost": 87930000
+        },
+        {
+            "level": 13,
+            "stat": 1500,
+            "statXenon": 585,
+            "statDemonAvenger": 26250,
+            "arcaneForce": 150,
+            "symbolExpRequired": 180,
+            "upgradeCost": 95060000
+        },
+        {
+            "level": 14,
+            "stat": 1600,
+            "statXenon": 624,
+            "statDemonAvenger": 28000,
+            "arcaneForce": 160,
+            "symbolExpRequired": 207,
+            "upgradeCost": 102190000
+        },
+        {
+            "level": 15,
+            "stat": 1700,
+            "statXenon": 663,
+            "statDemonAvenger": 29750,
+            "arcaneForce": 170,
+            "symbolExpRequired": 236,
+            "upgradeCost": 109320000
+        },
+        {
+            "level": 16,
+            "stat": 1800,
+            "statXenon": 702,
+            "statDemonAvenger": 31500,
+            "arcaneForce": 180,
+            "symbolExpRequired": 267,
+            "upgradeCost": 116450000
+        },
+        {
+            "level": 17,
+            "stat": 1900,
+            "statXenon": 741,
+            "statDemonAvenger": 33250,
+            "arcaneForce": 190,
+            "symbolExpRequired": 300,
+            "upgradeCost": 123580000
+        },
+        {
+            "level": 18,
+            "stat": 2000,
+            "statXenon": 780,
+            "statDemonAvenger": 35000,
+            "arcaneForce": 200,
+            "symbolExpRequired": 335,
+            "upgradeCost": 130710000
+        },
+        {
+            "level": 19,
+            "stat": 2100,
+            "statXenon": 819,
+            "statDemonAvenger": 36750,
+            "arcaneForce": 200,
+            "symbolExpRequired": 372,
+            "upgradeCost": 137840000
+        },
+        {
+            "level": 20,
+            "stat": 2200,
+            "statXenon": 858,
+            "statDemonAvenger": 38500,
+            "arcaneForce": 220,
+            "symbolExpRequired": 0,
+            "upgradeCost": 0
+        }
+    ]
+}

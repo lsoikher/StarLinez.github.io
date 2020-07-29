@@ -1,0 +1,121 @@
+{
+    "weeklyBosses":[   
+        {
+            "name": "Chaos Pink Bean",
+            "image": "ChaosPinkBean.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Hard Hilla",
+            "image": "HardHilla.png",
+            "completed": false,
+            "enabled": true
+        },     
+        {
+            "name": "Cygnus",
+            "image": "Cygnus.png",
+            "completed": false,
+            "enabled": true
+        },
+        
+        {
+            "name": "Chaos Zakum",
+            "image": "ChaosZakum.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Princess No",
+            "image": "PrincessNo.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Chaos Crimson Queen",
+            "image": "ChaosCrimsonQueen.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Chaos Pierre",
+            "image": "ChaosPierre.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Chaos Von Bon",
+            "image": "ChaosVonBon.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Chaos Vellum",
+            "image": "ChaosVellum.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Hard Magnus",
+            "image": "HardMagnus.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Chaos Papulatus",
+            "image": "ChaosPapulatus.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Lotus",
+            "image": "Lotus.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Damien",
+            "image": "Damien.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Lucid",
+            "image": "Lucid.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Will",
+            "image": "Will.png",
+            "completed": false,
+            "enabled": true
+        }
+    ],
+    "weeklyTasks":[
+        {
+            "name": "Guild Buff",
+            "image": "GuildBuff.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Scrapyard Quests",
+            "image": "Scrapyard.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Dark World Tree Quests",
+            "image": "Dark World Tree.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Mu Lung Dojo",
+            "image": "MuLungDojo.png",
+            "completed": false,
+            "enabled": true
+        }
+    ]
+}
