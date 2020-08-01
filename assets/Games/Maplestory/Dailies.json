@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "dailyBosses":[ 
         {
             "name": "Zakum",
@@ -132,6 +132,12 @@
         {
             "name": "Phantom Forest",
             "image": "PhantomForest.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Yu Garden",
+            "image": "YuGarden.png",
             "completed": false,
             "enabled": true
         }

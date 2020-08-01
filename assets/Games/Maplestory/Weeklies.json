@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "weeklyBosses":[   
         {
             "name": "Chaos Pink Bean",
@@ -89,6 +89,24 @@
         {
             "name": "Will",
             "image": "Will.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Gloom",
+            "image": "Gloom.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Verus Hilla",
+            "image": "VerusHilla.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Darknell",
+            "image": "Darknell.png",
             "completed": false,
             "enabled": true
         }
