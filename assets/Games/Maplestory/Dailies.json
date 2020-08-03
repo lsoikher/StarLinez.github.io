@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "dailyBosses":[ 
         {
             "name": "Zakum",
@@ -138,6 +138,18 @@
         {
             "name": "Yu Garden",
             "image": "YuGarden.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Rise Coin Capping",
+            "image": "Event/Rise/RiseCoin.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Battle Field of Honor",
+            "image": "Event/Rise/BattleFieldOfHonor.png",
             "completed": false,
             "enabled": true
         }
