@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "dailyBosses":[ 
         {
             "name": "Zakum",
@@ -142,14 +142,20 @@
             "enabled": true
         },
         {
-            "name": "Rise Coin Capping",
-            "image": "Event/Rise/RiseCoin.png",
+            "name": "Celestial Point Capping",
+            "image": "Event/AstralBlessing/CelestialPoint.png",
             "completed": false,
             "enabled": true
         },
         {
-            "name": "Battle Field of Honor",
-            "image": "Event/Rise/BattleFieldOfHonor.png",
+            "name": "Fire Thief",
+            "image": "Event/AstralBlessing/FireThief.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Fairy Bro's Golden Giveaway",
+            "image": "Event/GoldenGiveAway.png",
             "completed": false,
             "enabled": true
         }
