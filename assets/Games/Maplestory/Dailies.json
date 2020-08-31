@@ -1,5 +1,5 @@
 {
-    "version": "2.1",
+    "version": "3.0",
     "dailyBosses":[ 
         {
             "name": "Zakum",
@@ -88,6 +88,12 @@
         {
             "name": "Julieta",
             "image": "Julieta.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "OMNI-CLN",
+            "image": "OMNI-CLN.png",
             "completed": false,
             "enabled": true
         }

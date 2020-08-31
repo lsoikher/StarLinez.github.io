@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "3.0",
     "weeklyBosses":[   
         {
             "name": "Chaos Pink Bean",
@@ -119,13 +119,13 @@
             "enabled": true
         },
         {
-            "name": "Scrapyard Quests",
+            "name": "Scrapyard",
             "image": "Scrapyard.png",
             "completed": false,
             "enabled": true
         },
         {
-            "name": "Dark World Tree Quests",
+            "name": "Dark World Tree",
             "image": "Dark World Tree.png",
             "completed": false,
             "enabled": true
@@ -133,6 +133,12 @@
         {
             "name": "Mu Lung Dojo",
             "image": "MuLungDojo.png",
+            "completed": false,
+            "enabled": true
+        },
+        {
+            "name": "Kritias",
+            "image": "Kritias.png",
             "completed": false,
             "enabled": true
         }
