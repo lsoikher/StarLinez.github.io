@@ -87,7 +87,7 @@
         },
         {
           "name": "Demon Avenger",
-          "flameStats": ["hp"],
+          "flameStats": ["da"],
           "flameType": "da"
         },
         {
