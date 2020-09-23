@@ -1,101 +1,117 @@
 {
-    "version": "3.0",
+    "version": "4.0",
     "dailyBosses":[ 
         {
             "name": "Zakum",
             "image": "Zakum.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Horntail",
             "image": "Horntail.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Hilla",
             "image": "Hilla.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Crimson Queen",
             "image": "CrimsonQueen.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Pierre",
             "image": "Pierre.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Von Bon",
             "image": "VonBon.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Vellum",
             "image": "Vellum.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Von Leon",
             "image": "VonLeon.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Arkarium",
             "image": "Arkarium.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Magnus",
             "image": "Magnus.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Pink Bean",
             "image": "PinkBean.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Mori Ranmaru",
             "image": "MoriRanmaru.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Papulatus",
             "image": "Papulatus.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Gollux",
             "image": "Gollux.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Julieta",
             "image": "Julieta.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "OMNI-CLN",
             "image": "OMNI-CLN.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         }
     ],
     "dailyTasks":[
@@ -103,67 +119,64 @@
             "name": "Monster Park",
             "image": "MonsterPark.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Ursus",
             "image": "Ursus.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Maple Tour",
             "image": "MapleTour.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Legion",
             "image": "Legion.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Daily Gift",
             "image": "DailyGift.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Commerci",
             "image": "Commerci.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Phantom Forest",
             "image": "PhantomForest.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Yu Garden",
             "image": "YuGarden.png",
             "completed": false,
-            "enabled": true
-        },
-        {
-            "name": "Celestial Point Capping",
-            "image": "Event/AstralBlessing/CelestialPoint.png",
-            "completed": false,
-            "enabled": true
-        },
-        {
-            "name": "Fire Thief",
-            "image": "Event/AstralBlessing/FireThief.png",
-            "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Fairy Bro's Golden Giveaway",
             "image": "Event/GoldenGiveAway.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "event"
         }
     ],
     "dailyArcaneRiver":[
@@ -171,37 +184,43 @@
             "name": "Vanishing Journey Dailies",
             "image": "VanishingJourney.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Chu Chu Dailies",
             "image": "ChuChu.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Lachelein Dailies",
             "image": "Lachelein.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Arcana Dailies",
             "image": "Arcana.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Morass Dailies",
             "image": "Morass.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Esfera Dailies",
             "image": "Esfera.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         }
     ]
 }

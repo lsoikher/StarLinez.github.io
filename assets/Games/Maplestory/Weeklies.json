@@ -1,114 +1,132 @@
 {
-    "version": "3.0",
+    "version": "4.0",
     "weeklyBosses":[   
         {
             "name": "Chaos Pink Bean",
             "image": "ChaosPinkBean.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Hard Hilla",
             "image": "HardHilla.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },     
         {
             "name": "Cygnus",
             "image": "Cygnus.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         
         {
             "name": "Chaos Zakum",
             "image": "ChaosZakum.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Princess No",
             "image": "PrincessNo.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Chaos Crimson Queen",
             "image": "ChaosCrimsonQueen.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Chaos Pierre",
             "image": "ChaosPierre.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Chaos Von Bon",
             "image": "ChaosVonBon.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Chaos Vellum",
             "image": "ChaosVellum.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Hard Magnus",
             "image": "HardMagnus.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Chaos Papulatus",
             "image": "ChaosPapulatus.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Lotus",
             "image": "Lotus.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Damien",
             "image": "Damien.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Lucid",
             "image": "Lucid.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Will",
             "image": "Will.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Gloom",
             "image": "Gloom.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Verus Hilla",
             "image": "VerusHilla.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Darknell",
             "image": "Darknell.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         }
     ],
     "weeklyTasks":[
@@ -116,31 +134,36 @@
             "name": "Guild Buff",
             "image": "GuildBuff.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Scrapyard",
             "image": "Scrapyard.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Dark World Tree",
             "image": "Dark World Tree.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Mu Lung Dojo",
             "image": "MuLungDojo.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         },
         {
             "name": "Kritias",
             "image": "Kritias.png",
             "completed": false,
-            "enabled": true
+            "enabled": true,
+            "type": "default"
         }
     ]
 }
