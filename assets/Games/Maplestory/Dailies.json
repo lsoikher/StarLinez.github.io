@@ -1,5 +1,5 @@
 {
-    "version": "4.0",
+    "version": "4.1",
     "dailyBosses":[ 
         {
             "name": "Zakum",
@@ -172,8 +172,15 @@
             "type": "default"
         },
         {
-            "name": "Fairy Bro's Golden Giveaway",
-            "image": "Event/GoldenGiveAway.png",
+            "name": "Awake Coin Capping",
+            "image": "Event/Awake/AwakeCoin.png",
+            "completed": false,
+            "enabled": true,
+            "type": "event"
+        },
+        {
+            "name": "Sage Rock Training Grounds",
+            "image": "Event/Awake/SageRockTrainingGrounds.png",
             "completed": false,
             "enabled": true,
             "type": "event"
