@@ -1,5 +1,5 @@
 {
-    "version": "4.1",
+    "version": "4.2",
     "weeklyBosses":[   
         {
             "name": "Chaos Pink Bean",
@@ -61,6 +61,13 @@
         {
             "name": "Chaos Vellum",
             "image": "ChaosVellum.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default"
+        },
+        {
+            "name": "Akechi Mitsuhide",
+            "image": "AkechiMitsuhide.png",
             "completed": false,
             "enabled": true,
             "type": "default"
