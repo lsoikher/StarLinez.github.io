@@ -1,26 +1,29 @@
 {
-    "version": "4.2",
+    "version": "4.3",
     "weeklyBosses":[   
         {
             "name": "Chaos Pink Bean",
             "image": "ChaosPinkBean.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Hard Hilla",
             "image": "HardHilla.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },     
         {
             "name": "Cygnus",
             "image": "Cygnus.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         
         {
@@ -28,112 +31,128 @@
             "image": "ChaosZakum.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Princess No",
             "image": "PrincessNo.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Chaos Crimson Queen",
             "image": "ChaosCrimsonQueen.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Chaos Pierre",
             "image": "ChaosPierre.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Chaos Von Bon",
             "image": "ChaosVonBon.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Chaos Vellum",
             "image": "ChaosVellum.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Akechi Mitsuhide",
             "image": "AkechiMitsuhide.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Hard Magnus",
             "image": "HardMagnus.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Chaos Papulatus",
             "image": "ChaosPapulatus.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Lotus",
             "image": "Lotus.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Damien",
             "image": "Damien.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Lucid",
             "image": "Lucid.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Will",
             "image": "Will.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Gloom",
             "image": "Gloom.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Verus Hilla",
             "image": "VerusHilla.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Darknell",
             "image": "Darknell.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         }
     ],
     "weeklyTasks":[
@@ -142,35 +161,40 @@
             "image": "GuildBuff.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Scrapyard",
             "image": "Scrapyard.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Dark World Tree",
             "image": "Dark World Tree.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Mu Lung Dojo",
             "image": "MuLungDojo.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         },
         {
             "name": "Kritias",
             "image": "Kritias.png",
             "completed": false,
             "enabled": true,
-            "type": "default"
+            "type": "default",
+            "displayCondition": "true"
         }
     ]
 }
