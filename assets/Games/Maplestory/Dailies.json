@@ -1,5 +1,5 @@
 {
-    "version": "5.0",
+    "version": "5.1",
     "dailyBosses":[ 
         {
             "name": "Zakum",
@@ -196,36 +196,36 @@
             "displayCondition": "true"
         },
         {
-            "name": "Awake Coin Capping",
-            "image": "Event/Awake/AwakeCoin.png",
+            "name": "Fairy Bros' Golden Giveaway",
+            "image": "Event/GoldenGiveAway.png",
             "completed": false,
             "enabled": true,
             "type": "event",
-            "displayCondition": "new Date().getTime() > 1605736800000 && new Date().getTime() < 1611705599000"
+            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1623196799000"
         },
         {
-            "name": "Sage Rock Training Grounds",
-            "image": "Event/Awake/SageRockTrainingGrounds.png",
+            "name": "Cotton Candy Capping",
+            "image": "Event/MoonLightMagic/CottonCandy.png",
             "completed": false,
             "enabled": true,
             "type": "event",
-            "displayCondition": "new Date().getTime() > 1605736800000 && new Date().getTime() < 1611705599000"
+            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1615334399000"
         },
         {
-            "name": "Wonky's Magic Lamp",
-            "image": "Event/Awake/WonkyMagicLamp.png",
+            "name": "Moon Candy Capping",
+            "image": "Event/MoonLightMagic/MoonCandy.png",
             "completed": false,
             "enabled": true,
             "type": "event",
-            "displayCondition": "new Date().getTime() > 1609934400000 && new Date().getTime() < 1611705599000"
+            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1615334399000"
         },
         {
-            "name": "Awake Intensive Training",
-            "image": "Event/Awake/IntensiveTraining.png",
+            "name": "Star Balloon Pop",
+            "image": "Event/MoonLightMagic/StarCandy.png",
             "completed": false,
             "enabled": true,
             "type": "event",
-            "displayCondition": "new Date().getTime() > 1610496000000 && new Date().getTime() < 1611705599000"
+            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1615334399000"
         }
     ],
     "dailyArcaneRiver":[
