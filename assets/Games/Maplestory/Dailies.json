@@ -1,9 +1,9 @@
 {
-    "version": "5.1",
+    "version": "6.0",
     "dailyBosses":[ 
         {
             "name": "Zakum",
-            "image": "Zakum.png",
+            "image": "Dailies/Zakum.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -11,7 +11,7 @@
         },
         {
             "name": "Horntail",
-            "image": "Horntail.png",
+            "image": "Dailies/Horntail.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -19,7 +19,7 @@
         },
         {
             "name": "Hilla",
-            "image": "Hilla.png",
+            "image": "Dailies/Hilla.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -27,7 +27,7 @@
         },
         {
             "name": "Crimson Queen",
-            "image": "CrimsonQueen.png",
+            "image": "Dailies/CrimsonQueen.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -35,7 +35,7 @@
         },
         {
             "name": "Pierre",
-            "image": "Pierre.png",
+            "image": "Dailies/Pierre.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Von Bon",
-            "image": "VonBon.png",
+            "image": "Dailies/VonBon.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Vellum",
-            "image": "Vellum.png",
+            "image": "Dailies/Vellum.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -59,7 +59,7 @@
         },
         {
             "name": "Von Leon",
-            "image": "VonLeon.png",
+            "image": "Dailies/VonLeon.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Arkarium",
-            "image": "Arkarium.png",
+            "image": "Dailies/Arkarium.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Magnus",
-            "image": "Magnus.png",
+            "image": "Dailies/Magnus.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -83,7 +83,7 @@
         },
         {
             "name": "Pink Bean",
-            "image": "PinkBean.png",
+            "image": "Dailies/PinkBean.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Mori Ranmaru",
-            "image": "MoriRanmaru.png",
+            "image": "Dailies/MoriRanmaru.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -99,7 +99,7 @@
         },
         {
             "name": "Papulatus",
-            "image": "Papulatus.png",
+            "image": "Dailies/Papulatus.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Gollux",
-            "image": "Gollux.png",
+            "image": "Dailies/Gollux.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -115,7 +115,7 @@
         },
         {
             "name": "Julieta",
-            "image": "Julieta.png",
+            "image": "Dailies/Julieta.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -123,7 +123,7 @@
         },
         {
             "name": "OMNI-CLN",
-            "image": "OMNI-CLN.png",
+            "image": "Dailies/OMNI-CLN.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -133,7 +133,7 @@
     "dailyTasks":[
         {
             "name": "Monster Park",
-            "image": "MonsterPark.png",
+            "image": "Dailies/MonsterPark.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -141,7 +141,7 @@
         },
         {
             "name": "Ursus",
-            "image": "Ursus.png",
+            "image": "Dailies/Ursus.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -149,7 +149,7 @@
         },
         {
             "name": "Maple Tour",
-            "image": "MapleTour.png",
+            "image": "Dailies/MapleTour.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Legion",
-            "image": "Legion.png",
+            "image": "Dailies/Legion.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -165,7 +165,7 @@
         },
         {
             "name": "Daily Gift",
-            "image": "DailyGift.png",
+            "image": "Dailies/DailyGift.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -173,7 +173,7 @@
         },
         {
             "name": "Commerci",
-            "image": "Commerci.png",
+            "image": "Dailies/Commerci.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -181,7 +181,7 @@
         },
         {
             "name": "Phantom Forest",
-            "image": "PhantomForest.png",
+            "image": "Dailies/PhantomForest.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -189,7 +189,7 @@
         },
         {
             "name": "Yu Garden",
-            "image": "YuGarden.png",
+            "image": "Dailies/YuGarden.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -197,41 +197,17 @@
         },
         {
             "name": "Fairy Bros' Golden Giveaway",
-            "image": "Event/GoldenGiveAway.png",
+            "image": "Dailies/Event/GoldenGiveAway.png",
             "completed": false,
             "enabled": true,
             "type": "event",
             "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1623196799000"
-        },
-        {
-            "name": "Cotton Candy Capping",
-            "image": "Event/MoonLightMagic/CottonCandy.png",
-            "completed": false,
-            "enabled": true,
-            "type": "event",
-            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1615334399000"
-        },
-        {
-            "name": "Moon Candy Capping",
-            "image": "Event/MoonLightMagic/MoonCandy.png",
-            "completed": false,
-            "enabled": true,
-            "type": "event",
-            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1615334399000"
-        },
-        {
-            "name": "Star Balloon Pop",
-            "image": "Event/MoonLightMagic/StarCandy.png",
-            "completed": false,
-            "enabled": true,
-            "type": "event",
-            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1615334399000"
         }
     ],
     "dailyArcaneRiver":[
         {
             "name": "Vanishing Journey Dailies",
-            "image": "VanishingJourney.png",
+            "image": "Dailies/VanishingJourney.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -239,7 +215,7 @@
         },
         {
             "name": "Chu Chu Dailies",
-            "image": "ChuChu.png",
+            "image": "Dailies/ChuChu.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -247,7 +223,7 @@
         },
         {
             "name": "Lachelein Dailies",
-            "image": "Lachelein.png",
+            "image": "Dailies/Lachelein.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -255,7 +231,7 @@
         },
         {
             "name": "Arcana Dailies",
-            "image": "Arcana.png",
+            "image": "Dailies/Arcana.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -263,7 +239,7 @@
         },
         {
             "name": "Morass Dailies",
-            "image": "Morass.png",
+            "image": "Dailies/Morass.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -271,7 +247,7 @@
         },
         {
             "name": "Esfera Dailies",
-            "image": "Esfera.png",
+            "image": "Dailies/Esfera.png",
             "completed": false,
             "enabled": true,
             "type": "default",

@@ -1,9 +1,9 @@
 {
-    "version": "5.1",
+    "version": "6.0",
     "weeklyBosses":[   
         {
             "name": "Chaos Pink Bean",
-            "image": "ChaosPinkBean.png",
+            "image": "Weeklies/ChaosPinkBean.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -11,7 +11,7 @@
         },
         {
             "name": "Hard Hilla",
-            "image": "HardHilla.png",
+            "image": "Weeklies/HardHilla.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -19,7 +19,7 @@
         },     
         {
             "name": "Cygnus",
-            "image": "Cygnus.png",
+            "image": "Weeklies/Cygnus.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -28,7 +28,7 @@
         
         {
             "name": "Chaos Zakum",
-            "image": "ChaosZakum.png",
+            "image": "Weeklies/ChaosZakum.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Princess No",
-            "image": "PrincessNo.png",
+            "image": "Weeklies/PrincessNo.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Chaos Crimson Queen",
-            "image": "ChaosCrimsonQueen.png",
+            "image": "Weeklies/ChaosCrimsonQueen.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Chaos Pierre",
-            "image": "ChaosPierre.png",
+            "image": "Weeklies/ChaosPierre.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Chaos Von Bon",
-            "image": "ChaosVonBon.png",
+            "image": "Weeklies/ChaosVonBon.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -68,7 +68,7 @@
         },
         {
             "name": "Chaos Vellum",
-            "image": "ChaosVellum.png",
+            "image": "Weeklies/ChaosVellum.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Akechi Mitsuhide",
-            "image": "AkechiMitsuhide.png",
+            "image": "Weeklies/AkechiMitsuhide.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -84,7 +84,7 @@
         },
         {
             "name": "Hard Magnus",
-            "image": "HardMagnus.png",
+            "image": "Weeklies/HardMagnus.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Chaos Papulatus",
-            "image": "ChaosPapulatus.png",
+            "image": "Weeklies/ChaosPapulatus.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Lotus",
-            "image": "Lotus.png",
+            "image": "Weeklies/Lotus.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -108,7 +108,7 @@
         },
         {
             "name": "Damien",
-            "image": "Damien.png",
+            "image": "Weeklies/Damien.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Lucid",
-            "image": "Lucid.png",
+            "image": "Weeklies/Lucid.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -124,7 +124,7 @@
         },
         {
             "name": "Will",
-            "image": "Will.png",
+            "image": "Weeklies/Will.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Gloom",
-            "image": "Gloom.png",
+            "image": "Weeklies/Gloom.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -140,7 +140,7 @@
         },
         {
             "name": "Verus Hilla",
-            "image": "VerusHilla.png",
+            "image": "Weeklies/VerusHilla.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -148,7 +148,7 @@
         },
         {
             "name": "Darknell",
-            "image": "Darknell.png",
+            "image": "Weeklies/Darknell.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -158,7 +158,7 @@
     "weeklyTasks":[
         {
             "name": "Guild Buff",
-            "image": "GuildBuff.png",
+            "image": "Weeklies/GuildBuff.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Scrapyard",
-            "image": "Scrapyard.png",
+            "image": "Weeklies/Scrapyard.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -174,7 +174,7 @@
         },
         {
             "name": "Dark World Tree",
-            "image": "Dark World Tree.png",
+            "image": "Weeklies/Dark World Tree.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Mu Lung Dojo",
-            "image": "MuLungDojo.png",
+            "image": "Weeklies/MuLungDojo.png",
             "completed": false,
             "enabled": true,
             "type": "default",
@@ -190,7 +190,7 @@
         },
         {
             "name": "Kritias",
-            "image": "Kritias.png",
+            "image": "Weeklies/Kritias.png",
             "completed": false,
             "enabled": true,
             "type": "default",
