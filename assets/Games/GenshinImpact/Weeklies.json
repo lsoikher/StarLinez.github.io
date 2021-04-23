@@ -1,0 +1,45 @@
+{
+    "version": "1.0",
+    "weeklyTasks":[ 
+        {
+            "name": "Golden House",
+            "image": "GenshinWeeklies/GoldenHouse.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        },
+        {
+            "name": "Storm Terror",
+            "image": "GenshinWeeklies/StormTerror.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        },
+        {
+            "name": "Weekly Bounty",
+            "image": "GenshinWeeklies/WeeklyBounty.jpg",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        },
+        {
+            "name": "Weekly Request",
+            "image": "GenshinWeeklies/WeeklyRequest.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        },
+        {
+            "name": "Wolf of the North",
+            "image": "GenshinWeeklies/WolfOfTheNorth.jpg",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        }
+    ]
+}

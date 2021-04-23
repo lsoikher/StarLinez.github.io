@@ -1,0 +1,37 @@
+{
+    "version": "1.0",
+    "dailyTasks":[ 
+        {
+            "name": "Battlepass Quests",
+            "image": "GenshinDailies/BattlepassQuests.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        },
+        {
+            "name": "Daily Quests",
+            "image": "GenshinDailies/DailyQuests.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        },
+        {
+            "name": "Expedition",
+            "image": "GenshinDailies/Expedition.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        },
+        {
+            "name": "Resin",
+            "image": "GenshinDailies/Resin.png",
+            "completed": false,
+            "enabled": true,
+            "type": "default",
+            "displayCondition": "true"
+        }
+    ]
+}
