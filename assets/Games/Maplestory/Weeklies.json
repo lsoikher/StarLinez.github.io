@@ -1,5 +1,5 @@
 {
-    "version": "6.1",
+    "version": "6.2",
     "weeklyBosses":[   
         {
             "name": "Chaos Pink Bean",
@@ -195,6 +195,22 @@
             "enabled": true,
             "type": "default",
             "displayCondition": "true"
+        },
+        {
+            "name": "Leo's Travel Journal",
+            "image": "Weeklies/Event/Neo/Leo.png",
+            "completed": false,
+            "enabled": true,
+            "type": "event",
+            "displayCondition": "new Date().getTime() > 1623275999000 && new Date().getTime() < 1629849599000"
+        },
+        {
+            "name": "Neo Cores",
+            "image": "Weeklies/Event/Neo/NeoCore.png",
+            "completed": false,
+            "enabled": true,
+            "type": "event",
+            "displayCondition": "new Date().getTime() > 1623275999000 && new Date().getTime() < 1629849599000"
         }
     ]
 }

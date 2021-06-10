@@ -1,5 +1,5 @@
 {
-    "version": "6.1",
+    "version": "6.2",
     "dailyBosses":[ 
         {
             "name": "Zakum",
@@ -196,28 +196,28 @@
             "displayCondition": "true"
         },
         {
-            "name": "Fairy Bros' Golden Giveaway",
-            "image": "Dailies/Event/GoldenGiveAway.png",
+            "name": "Neo Stone Capping",
+            "image": "Dailies/Event/Neo/NeoStone.png",
             "completed": false,
             "enabled": true,
             "type": "event",
-            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1623196799000"
+            "displayCondition": "new Date().getTime() > 1623275999000 && new Date().getTime() < 1629849599000"
         },
         {
-            "name": "Coin Capping",
-            "image": "Dailies/Event/MapleHotel/Sweet16Coin.png",
+            "name": "Neo Gem Capping",
+            "image": "Dailies/Event/Neo/NeoGem.png",
             "completed": false,
             "enabled": true,
             "type": "event",
-            "displayCondition": "new Date().getTime() > 1612386000000 && new Date().getTime() < 1623196799000"
+            "displayCondition": "new Date().getTime() > 1623275999000 && new Date().getTime() < 1629849599000"
         },
         {
-            "name": "Maple Punch King",
-            "image": "Dailies/Event/MapleHotel/MaplePunchKing.png",
+            "name": "Neo Crystal Challenge",
+            "image": "Dailies/Event/Neo/NeoCrystalChallenge.png",
             "completed": false,
             "enabled": true,
             "type": "event",
-            "displayCondition": "new Date().getTime() > 1619028000000 && new Date().getTime() < 1623196799000"
+            "displayCondition": "new Date().getTime() > 1623275999000 && new Date().getTime() < 1629849599000"
         }
     ],
     "dailyArcaneRiver":[
